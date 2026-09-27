@@ -1,0 +1,31 @@
+{
+  "title": "Reproducibility Package: Invisible Mitigation: Why Default Methane Accounting Cannot See What Dairy Farmers Do",
+  "description": "Complete code and reproducibility package for a study formally demonstrating that the IPCC Tier 1 national greenhouse gas inventory method is structurally unable to register farm-level, diet-mediated enteric methane mitigation in dairy cattle, illustrated using a mechanistic enteric-methane model combined with four candidate mitigation levers parameterized with U.S. Holstein performance and price data. Running code/run_all.py reproduces every table and figure reported in the manuscript, with internal verification assertions checking every output against its reported value.",
+  "creators": [
+    {
+      "name": "Tosun, Halil",
+      "affiliation": "ADA University, School of Agricultural and Food Sciences, Department of Animal Science, Baku, Azerbaijan",
+      "orcid": "0000-0001-5117-0390"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "upload_type": "software",
+  "keywords": [
+    "enteric methane",
+    "greenhouse gas inventory",
+    "IPCC Tier 1",
+    "dairy cattle",
+    "marginal abatement cost",
+    "mitigation accounting",
+    "carbon crediting",
+    "reproducibility"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "[manuscript DOI to be inserted upon acceptance]",
+      "resource_type": "publication-article"
+    }
+  ]
+}
