@@ -1,0 +1,3 @@
+scenario,coefficient_source,abatement_ton_co2e_cow_yr_median,dollar_per_ton_median,dollar_per_ton_p5,dollar_per_ton_p95
+Primary (used in Table 3),"de Ondarza et al., 2024 (3.77%/point)",0.3309860230390157,427.4027299415198,411.7772075761499,443.4103691622975
+Alternative higher-effect,"Hristov et al., 2022 (19.5%/point)",1.711996670891461,58.698624013015475,43.073101647645586,74.70626323379325

@@ -1,0 +1,5 @@
+parameter,mechanistic_this_study,ipcc_tier1_default,difference
+Baseline enteric CH4 (kg/head/yr),122.1,138.0,+15.9 (+13.0%)
+Reference milk production (kg/head/yr),13870,10250,+3620 (+35.3%)
+Stated uncertainty range,Deterministic point estimate,+30% to +50%,--
+Plausible range at stated uncertainty (kg/head/yr),n/a,96.6-179.4 (+/-30%); 69.0-207.0 (+/-50%),--

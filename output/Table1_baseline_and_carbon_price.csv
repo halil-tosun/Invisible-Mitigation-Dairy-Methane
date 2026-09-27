@@ -1,0 +1,16 @@
+panel,parameter,value,source
+A,Body weight (BW),650 kg,Representative lactating Holstein cow
+A,Milk yield (MILK),38.0 kg/d,Representative lactating Holstein cow
+A,Milk fat (FAT),3.8%,Representative lactating Holstein cow
+A,Milk true protein,3.1%,Representative lactating Holstein cow
+A,Milk price (reference only; not a cost-effectiveness driver),$20.70/cwt,"USDA ERS all-milk price, 2026 annual forecast (June 2026)"
+A,U.S. milk cow inventory,9.65 million head,"USDA NASS Cattle report, July 1, 2026"
+A,Methane GWP100 (biogenic),27.0 kg CO2e/kg CH4,"IPCC AR6, Table 7.15"
+A,BAU dietary NDF (mean),34.1% DM,"NASEM (2021), 34.1 +/- 4.6% DM"
+A,Forage NDF floor,19% DM,NRC (2001) / NASEM (2021)
+A,Total dietary NDF floor,25% DM,NRC (2001)
+A,NFC ceiling,40% DM,NRC (2001)
+A,Rumen-available fat ceiling,5.5% DM,Honan et al. (2022)
+B,Carbon price -- Low,$6.34/ton CO2e,Ecosystem Marketplace SOVCM 2025
+B,Carbon price -- Mid,$30.00/ton CO2e,First verified dairy carbon transaction
+B,Carbon price -- High,$45-60/ton CO2e,General premium market ceiling (not livestock-specific)

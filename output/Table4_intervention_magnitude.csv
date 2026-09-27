@@ -1,0 +1,5 @@
+lever,baseline,intervention,delta,binding_constraint
+A -- Dietary NDF,34.10% DM,33.67% DM (realized; 28% DM nominal floor not reached),-0.43 pts,"NFC ceiling (40% DM), not the NDF floor"
+B -- 3-NOP dose,0 mg/kg DM,70.5 mg/kg DM,+70.5 mg/kg,"Reference meta-analytic dose (Kebreab et al., 2022)"
+C -- Dietary fat,2.83% DM,5.50% DM,+2.67 pts,"Rumen-health fat ceiling (RAEE, Honan et al. 2022)"
+D -- Replacement rate,31%,21%,-10 pts,"Scenario assumption (USDA/NAHMS, 2018 benchmark)"
